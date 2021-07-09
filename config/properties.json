@@ -1,0 +1,15 @@
+{
+   "Movielens1M" : {"collaborative": ["feedback_dbo_director", "feedback_dbo_starring", "feedback_dbo_distributor", "feedback_dbo_writer",
+	   "feedback_dbo_musicComposer", "feedback_dbo_producer", "feedback_dbo_cinematography", "feedback_dbo_editing"]},
+
+   "LastFM" : { "collaborative": ["feedback_dbo_genre", "feedback_dbo_recordLabel", "feedback_dbo_hometown",
+     "feedback_dbo_associatedBand", "feedback_dbo_associatedMusicalArtist",
+   "feedback_dbo_birthPlace", "feedback_dbo_bandMember", "feedback_dbo_formerBandMember", "feedback_dbo_occupation", "feedback_dbo_instrument", "feedback_dct_subject"]}
+,
+
+  "LibraryThing" : {"collaborative": ["feedback_dbo_author", "feedback_dbo_publisher", "feedback_dbo_literaryGenre", "feedback_dbo_mediaType",
+				      "feedback_dbo_subsequentWork", "feedback_dbo_previousWork", "feedback_dbo_series", "feedback_dbo_country", 
+				      "feedback_dbo_language", "feedback_dbo_coverArtist", "feedback_dct_subject"]
+}
+}
+
